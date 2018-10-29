@@ -1,2 +1,0 @@
-# koala
-Created with CodeSandbox
